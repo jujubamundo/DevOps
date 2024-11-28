@@ -10,3 +10,4 @@
     - 'us-east1-docker.pkg.dev/einfo2024/services/devops-image-25786'
   options:
     logging: CLOUD_LOGGING_ONLY  
+    
